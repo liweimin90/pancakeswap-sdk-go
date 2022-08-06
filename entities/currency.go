@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/nikolalosic/pancakeswap-sdk-go/constants"
-	"github.com/nikolalosic/pancakeswap-sdk-go/utils"
+	"github.com/liweimin90/pancakeswap-sdk-go/constants"
+	"github.com/liweimin90/pancakeswap-sdk-go/utils"
 )
 
 /**
